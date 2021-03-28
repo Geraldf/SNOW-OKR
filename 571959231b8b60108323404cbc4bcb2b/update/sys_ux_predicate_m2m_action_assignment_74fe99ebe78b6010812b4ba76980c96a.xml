@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="Popular articles predicate">7cfe99eba18b6010e43d678fabc6bf66</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-28 10:22:47</sys_created_on>
+        <sys_id>74fe99ebe78b6010812b4ba76980c96a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OKR" source="x_557984_okr">571959231b8b60108323404cbc4bcb2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OKR">571959231b8b60108323404cbc4bcb2b</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_74fe99ebe78b6010812b4ba76980c96a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-28 10:22:47</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

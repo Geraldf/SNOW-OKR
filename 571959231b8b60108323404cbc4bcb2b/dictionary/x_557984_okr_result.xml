@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Result" max_length="40" name="x_557984_okr_result" type="collection">
+        <element display="true" label="ExpectedResultValue" max_length="15" name="expectedresultvalue" type="decimal"/>
+        <element label="Nr" max_length="40" name="nr" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="encode_utf8=false" display="true" label="Objective" max_length="32" name="objective" reference="x_557984_okr_objective" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="ResultDescription" max_length="200" name="resultdescription" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="ResultMeshurment" max_length="200" name="resultmeshurment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="StartDate" max_length="40" name="startdate" type="glide_date"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="ToBeFinishedDate" max_length="40" name="tobefinisheddate" type="glide_date"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="objective"/>
+        </index>
+    </element>
+</database>

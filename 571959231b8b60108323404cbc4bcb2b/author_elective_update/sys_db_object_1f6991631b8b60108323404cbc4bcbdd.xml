@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Okr 1616925514250</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_557984_okr_1616925514250</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">657caaa4013120100acb3f11fae2b1f2</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-28 09:58:35</sys_created_on>
+        <sys_id>1f6991631b8b60108323404cbc4bcbdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Okr 1616925514250</sys_name>
+        <sys_package display_value="OKR" source="x_557984_okr">571959231b8b60108323404cbc4bcb2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OKR">571959231b8b60108323404cbc4bcb2b</sys_scope>
+        <sys_update_name>sys_db_object_1f6991631b8b60108323404cbc4bcbdd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-28 09:58:35</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OKR">571959231b8b60108323404cbc4bcb2b</application>
+        <file_path/>
+        <instance_id>b0ef5965dbc797c0439ef70fbf961909</instance_id>
+        <instance_name>dev63265</instance_name>
+        <name>sys_db_object_1f6991631b8b60108323404cbc4bcbdd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Okr 1616925514250</label><live_feed_enabled>false</live_feed_enabled><name>x_557984_okr_1616925514250</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">657caaa4013120100acb3f11fae2b1f2</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-28 09:58:35</sys_created_on><sys_id>1f6991631b8b60108323404cbc4bcbdd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Okr 1616925514250</sys_name><sys_package display_value="OKR" source="x_557984_okr">571959231b8b60108323404cbc4bcb2b</sys_package><sys_policy/><sys_scope display_value="OKR">571959231b8b60108323404cbc4bcb2b</sys_scope><sys_update_name>sys_db_object_1f6991631b8b60108323404cbc4bcbdd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-28 09:58:35</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1783038073</payload_hash>
+        <record_name>Okr 1616925514250</record_name>
+        <reverted_from/>
+        <source>231959231b8b60108323404cbc4bcb2e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-28 09:58:36</sys_created_on>
+        <sys_id>ef6991631b8b60108323404cbc4bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178784561970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-28 09:58:36</sys_updated_on>
+        <type>Table</type>
+        <update_guid>6b699163ba8b60101f26081ed56f68fe</update_guid>
+        <update_guid_history>6b699163ba8b60101f26081ed56f68fe:1783038073</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-28 10:00:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>ecf6a77282444b8092412fb7f6161900</sys_id>
+        <sys_metadata>1f6991631b8b60108323404cbc4bcbdd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Okr 1616925514250</sys_name>
+        <sys_package display_value="OKR" source="x_557984_okr">571959231b8b60108323404cbc4bcb2b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OKR">571959231b8b60108323404cbc4bcb2b</sys_scope>
+        <sys_scope_delete display_value="">27b9eefaca98451a92f55bbadd5ad231</sys_scope_delete>
+        <sys_update_name>sys_db_object_1f6991631b8b60108323404cbc4bcbdd</sys_update_name>
+        <sys_update_version display_value="sys_db_object_1f6991631b8b60108323404cbc4bcbdd">ef6991631b8b60108323404cbc4bcbfe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-28 10:00:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

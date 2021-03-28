@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="OKR Config">b0fe99eb1b8b60108323404cbc4bcb41</app_config>
+        <description/>
+        <fields>sysId,table</fields>
+        <icon/>
+        <name>Record Page(request)</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record_request</route_type>
+        <screen_type display_value="Record Page(request)">74fe99eb1c8b6010be0d3896e013cc60</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-28 10:22:48</sys_created_on>
+        <sys_id>b4fe99ebb08b60109117e06686b30060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Page(request)</sys_name>
+        <sys_package display_value="OKR" source="x_557984_okr">571959231b8b60108323404cbc4bcb2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OKR">571959231b8b60108323404cbc4bcb2b</sys_scope>
+        <sys_update_name>sys_ux_app_route_b4fe99ebb08b60109117e06686b30060</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-28 10:22:48</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=b4fe99ebb08b60109117e06686b30060"/>
+</record_update>

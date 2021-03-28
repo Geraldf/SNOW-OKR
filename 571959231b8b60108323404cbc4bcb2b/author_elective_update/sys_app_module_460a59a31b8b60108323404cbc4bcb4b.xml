@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Okr 1616925672525</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_557984_okr_1616925672525</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-28 10:01:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>460a59a31b8b60108323404cbc4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Okr 1616925672525</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OKR" source="x_557984_okr">571959231b8b60108323404cbc4bcb2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OKR">571959231b8b60108323404cbc4bcb2b</sys_scope>
+        <sys_update_name>sys_app_module_460a59a31b8b60108323404cbc4bcb4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-28 10:01:14</sys_updated_on>
+        <timeline_page/>
+        <title>Okr 1616925672525</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OKR">571959231b8b60108323404cbc4bcb2b</application>
+        <file_path/>
+        <instance_id>b0ef5965dbc797c0439ef70fbf961909</instance_id>
+        <instance_name>dev63265</instance_name>
+        <name>sys_app_module_460a59a31b8b60108323404cbc4bcb4b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Okr 1616925672525</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_557984_okr_1616925672525</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-28 10:01:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>460a59a31b8b60108323404cbc4bcb4b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Okr 1616925672525</sys_name><sys_overrides/><sys_package display_value="OKR" source="x_557984_okr">571959231b8b60108323404cbc4bcb2b</sys_package><sys_policy/><sys_scope display_value="OKR">571959231b8b60108323404cbc4bcb2b</sys_scope><sys_update_name>sys_app_module_460a59a31b8b60108323404cbc4bcb4b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-28 10:01:14</sys_updated_on><timeline_page/><title>Okr 1616925672525</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1138633318</payload_hash>
+        <record_name>Okr 1616925672525</record_name>
+        <reverted_from/>
+        <source>231959231b8b60108323404cbc4bcb2e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-28 10:01:14</sys_created_on>
+        <sys_id>4a0a59a31b8b60108323404cbc4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1787847caa10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-28 10:01:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>820a59a3278b6010c7ec83ab6b71f04d</update_guid>
+        <update_guid_history>820a59a3278b6010c7ec83ab6b71f04d:1138633318</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Okr 1616925672525">619a1de31b8b60108323404cbc4bcbad</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-28 10:03:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3a1bab09b01a43f091ecf5f0a79d1da9</sys_id>
+        <sys_metadata>460a59a31b8b60108323404cbc4bcb4b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Okr 1616925672525</sys_name>
+        <sys_package display_value="OKR" source="x_557984_okr">571959231b8b60108323404cbc4bcb2b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OKR">571959231b8b60108323404cbc4bcb2b</sys_scope>
+        <sys_scope_delete display_value="">27b9eefaca98451a92f55bbadd5ad231</sys_scope_delete>
+        <sys_update_name>sys_app_module_460a59a31b8b60108323404cbc4bcb4b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_460a59a31b8b60108323404cbc4bcb4b">4a0a59a31b8b60108323404cbc4bcb4d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-28 10:03:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
